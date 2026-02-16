@@ -1,62 +1,64 @@
-<!--
-  ███████╗██╗   ██╗███╗   ██╗████████╗██╗  ██╗██╗    ██╗ █████╗ ██╗   ██╗███████╗
-  ██╔════╝██║   ██║████╗  ██║╚══██╔══╝██║  ██║██║    ██║██╔══██╗██║   ██║██╔════╝
-  ███████╗██║   ██║██╔██╗ ██║   ██║   ███████║██║ █╗ ██║███████║██║   ██║█████╗
-  ╚════██║██║   ██║██║╚██╗██║   ██║   ██╔══██║██║███╗██║██╔══██║╚██╗ ██╔╝██╔══╝
-  ███████║╚██████╔╝██║ ╚████║   ██║   ██║  ██║╚███╔███╔╝██║  ██║ ╚████╔╝ ███████╗
-  ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝
-  professor • história • patrimônio • tecnologia
--->
-
 <div align="center">
-  <img src="assets/space-marines.gif" alt="retro sci-fi vibe" width="820" />
+  <img src="assets/space-marines.gif" alt="retro sci-fi banner" width="820" />
 </div>
 
 <div align="center">
 
 # Éwerton
 
-**Professor | História, Patrimônio & Tecnologia**  
-Joinville/SC • Repositório voltado para aulas, exemplos e projetos didáticos.
+Professor (SENAI/SC) • História, Patrimônio & Tecnologia  
+Materiais de aula, exemplos práticos e projetos didáticos. Sem hype, com método.
 
 </div>
 
 ---
 
 ## O que você encontra aqui
-- Materiais de aula (exemplos curtos, exercícios, templates e atividades guiadas).
-- Projetos em HTML/CSS e introdução a frameworks (React/Angular/Vue).
-- Scripts e automações em Python/R para análise e apoio a projetos.
-- Experimentos “humanidades + tecnologia” (dados, documentação, visualizações simples).
+- Repositórios para **aulas**: exercícios, templates, checklists, avaliações e projetos guiados.
+- Exemplos de **web** (HTML/CSS e frameworks quando fizer sentido).
+- Scripts e automações para **dados** (Python/R) aplicados a problemas reais.
+- Projetos interdisciplinares: tecnologia, sociedade, sustentabilidade e patrimônio.
 
-## Linhas de interesse (pesquisa e projetos)
-- Patrimônio ambiental e políticas públicas
-- Sustentabilidade e ciclo de vida de tecnologias
-- Resíduos eletrônicos (e-waste) e seus impactos socioambientais
-- Metodologias e ferramentas digitais aplicadas às Humanidades
+## Para meus alunos
+- Comece pelos repositórios **fixados (Pinned)** — eles são a trilha principal.
+- Cada repo de aula deve ter: **objetivo**, **pré-requisitos**, **passo a passo** e **desafios**.
+- Dúvidas: abra uma **Issue** com:
+  - o que você tentou,
+  - o erro completo,
+  - print + trecho do código.
 
-## Stack (o que mais aparece nos repositórios)
+## Pesquisa e temas que atravessam meus projetos
+- Patrimônio ambiental e sustentabilidade
+- Resíduos eletrônicos (e-waste) e políticas públicas
+- Ciclo de vida da tecnologia e impactos socioambientais
+- Ferramentas digitais aplicadas às Humanidades
+
+## Tecnologias (para ensino e prática)
 **Linguagens:** C, C++, C#, Python, R, PHP  
 **Web:** HTML, CSS (e JavaScript quando necessário)  
-**Frameworks (nível introdutório / uso didático):** React, Angular, Vue  
+**Frameworks (uso didático):** React, Angular, Vue  
 **Banco de dados:** MySQL, PostgreSQL
 
-## Para alunos
-- Comece pelos repositórios fixados (Pinned). Eles têm a trilha principal.
-- Cada projeto costuma ter: objetivo, pré-requisitos, passo a passo e desafios extras.
-- Dúvidas: abra uma Issue com o print/erro e o que você já tentou.
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+</p>
 
-## Projetos em destaque
-- [ ] Em breve: lista de repositórios pinados com descrições curtas.
-
-## Contato / organização
-- Sugestões e correções: Issues e Pull Requests são bem-vindos (quando fizer sentido para a atividade).
-- Se for assunto de aula: use o canal combinado em sala.
+## Contato
+- Sala de aula / canal oficial da turma: (preencher)
+- LinkedIn: (preencher)
+- ORCID / Lattes: (preencher)
 
 ---
 
 <div align="center">
-  <sub>“Aprender é depurar o mundo.”</sub>
+  <sub>“Aprender é investigar, testar e documentar. O resto é ruído.”</sub>
 </div>
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=synthwave)
