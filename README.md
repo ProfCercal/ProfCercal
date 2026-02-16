@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/space-marines.gif" alt="retro sci-fi banner" width="820" />
+  <img src="assets/space-marines.gif" alt="Space Marines" width="820" />
 </div>
 
 <div align="center">
@@ -58,7 +58,11 @@ Materiais de aula, exemplos práticos e projetos didáticos. Sem hype, com méto
 ---
 
 <div align="center">
-  <sub>“Aprender é investigar, testar e documentar. O resto é ruído.”</sub>
+  <sub>“Wake the fuck up, Samurai! We have a city to burn.” - Johnny Silverhand</sub>
+</div>
+
+<div align="center">
+  <img src="assets/johnny-silverhand.gif" alt="Cyberpunk 2077" width="820" />
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=synthwave)
