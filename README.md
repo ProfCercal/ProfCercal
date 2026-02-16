@@ -60,7 +60,7 @@ Materiais de aula, exemplos práticos e projetos didáticos. Sem hype, com méto
 <div align="center">
   <sub>“Wake the fuck up, Samurai! We have a city to burn.” - Johnny Silverhand</sub>
 </div>
-<br>
+<p>&nbsp;</p>
 <div align="center">
   <img src="assets/johnny-silverhand.gif" alt="Cyberpunk 2077" width="260" />
 </div>
