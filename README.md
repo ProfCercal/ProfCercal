@@ -51,9 +51,9 @@ Materiais de aula, exemplos práticos e projetos didáticos. Sem hype, com méto
 </p>
 
 ## Contato
-- Sala de aula / canal oficial da turma: (preencher)
-- LinkedIn: (preencher)
-- ORCID / Lattes: (preencher)
+- Sala de aula / canal oficial da turma: 
+- LinkedIn: 
+- ORCID / Lattes: 
 
 ---
 
