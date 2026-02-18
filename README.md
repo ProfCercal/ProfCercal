@@ -65,4 +65,12 @@ Materiais de aula, exemplos práticos e projetos didáticos.
   <img src="assets/johnny-silverhand.gif" alt="Cyberpunk 2077" width="260" />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfCercal&show_icons=true&theme=synthwave)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHTmlTiagLI?si=N7-OFXsILJEhW3Mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div align="center">
+  [![Video Title](https://img.youtube.com[VIDEO_ID]/0.jpg)](https://www.youtube.com[VIDEO_ID])
+</div>
+
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfCercal&show_icons=true&theme=synthwave)
+</div>
