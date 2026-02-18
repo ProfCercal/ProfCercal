@@ -7,7 +7,7 @@
 # Éwerton
 
 Professor (SENAI/SC) • História, Patrimônio & Tecnologia  
-Materiais de aula, exemplos práticos e projetos didáticos. Sem hype, com método.
+Materiais de aula, exemplos práticos e projetos didáticos.
 
 </div>
 
@@ -33,7 +33,7 @@ Materiais de aula, exemplos práticos e projetos didáticos. Sem hype, com méto
 - Ciclo de vida da tecnologia e impactos socioambientais
 - Ferramentas digitais aplicadas às Humanidades
 
-## Tecnologias (para ensino e prática)
+## Tecnologias
 **Linguagens:** C, C++, C#, Python, R, PHP  
 **Web:** HTML, CSS (e JavaScript quando necessário)  
 **Frameworks (uso didático):** React, Angular, Vue  
@@ -51,9 +51,9 @@ Materiais de aula, exemplos práticos e projetos didáticos. Sem hype, com méto
 </p>
 
 ## Contato
-- Sala de aula / canal oficial da turma: 
-- LinkedIn: 
-- ORCID / Lattes: 
+- Sala de aula / canal oficial da turma: https://ava.sesisenai.org.br
+- LinkedIn: https://www.linkedin.com/in/eocercal/
+- ORCID / Lattes: https://orcid.org/0009-0006-8912-908X / http://lattes.cnpq.br/6660845771975564
 
 ---
 
