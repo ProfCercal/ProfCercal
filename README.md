@@ -57,12 +57,18 @@ Materiais de aula, exemplos práticos e projetos didáticos.
 
 ---
 
+<p>&nbsp;</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfCercal&show_icons=true&theme=synthwave)
+
+<p>&nbsp;</p>
+
+---
+
 <div align="center">
   <sub>“Wake the fuck up, Samurai! We have a city to burn.” - Johnny Silverhand</sub>
 </div>
-<p>&nbsp;</p>
+
 <div align="center">
   <img src="assets/johnny-silverhand.gif" alt="Cyberpunk 2077" width="260" />
 </div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfCercal&show_icons=true&theme=synthwave)
